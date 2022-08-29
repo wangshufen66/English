@@ -1,12 +1,8 @@
-# English summary
+# English study
 
 #### 介绍
-English summary
+English study
 
 英语学习资料
 
-
-
-
-
-同事推送到github上
+同事推送到2个仓库
