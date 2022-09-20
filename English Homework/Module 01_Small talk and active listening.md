@@ -7,7 +7,7 @@
 ##### 最近怎么样?
 
 - What’s up? How are you?   ----  I'm good. | Good!
-- How are you doing?  ----  Really good,thanks. (, and you?)  | I'm doing great.
+- How are you doing?  ----  Really good,thanks. (, and you?)  | I'm doing great/well/fine. | pretty good.|Not bad|Fine |quite well/fine. | I'm Ok.
 - How’s your day going? 
 - how’s your day?  
 - How’s your day been (so far)?   so far  so good  | so far my day has been  great.(到现在为止，一直都还不错)
@@ -16,6 +16,8 @@
 - How are things?
 - How have you been? 
 - **How do you do? => I'm doing well"  慎用!!!**
+
+如果最近感觉不错的话就回答：fine/quite well,thanks.(and you?),但是如果最近比较糟糕倒霉的话可以这样说：Not so well/rather badly.还有如果一般般的话就可以说；just so so\not so bad\nothing out of the ordinary.
 
 回答:
 
