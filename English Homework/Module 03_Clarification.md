@@ -1,75 +1,45 @@
-#### Module 03_Clarification
+#### Module 03_Clarification  
 
-1. Say that again
-2. didn't catch that
-3. mean by
-4. a bit more specific about
-5. not quite sure
-6. What I mean is
-7. basically what I'm saying
-8. Does that make sense
-9. So what you're saying
-10. So you're basically saying
-11. that's correct
-12. just mentioned
-13. missed that bit
-14. what you're saying
-15. understand you correctly
-16. what do you mean by
-
-
-
-I think  there's a misunderstanding here.
-
-That’s not what I mean.
-
-Sorry if I didn’t make that clear.
-
-
-
-What you are saying is that...
-
-What you meant is that ...
-
-Did you mean...?
-
-Does that make sense
+/*ˌklærəfɪˈkeɪʃn*/
 
 
 
 **Key**
 
-- what do you mean by
-- I didn’t catch
-- Does that make sense?
-- Not quite sure
+- what do you mean by  --what do you mean by social design patterns, and how does that work?
+
+- Sorry I didn’t catch that
+
 - Got it. 
+
 - Can you be a bit more specific about
-- Say that again
-- What you’re saying is
-- What you’re saying is
-- Pretty much
-- You’re basically saying
-- Say that again
-- What I mean 
 
- 
+- So,what you’re saying is
 
-1. **SAY** that again [asking to     repeat]
-2. Sorry, I don’t understand. Could you explain **TO** me?
-3. Sorry, I missed that **BIT**.     
-4.  What do you mean **BY** ‘secure’? 
-5. Sorry, I didn’t **CATCH**     what you said.
-6. Does that **MAKE** sense? 
-7. If I understand you correct**LY**
-8. So basically what I’M saying is…
-9. Can you be a bit more specific **ABOUT** what…
-10. I’m not quite sure what **YOU     MEAN** by that.
-11. Sorry if I didn’t **MAKE**     that clear.
-12. I’m afraid that’s not **WHAT** I mean. 
+- Pretty much:差不多;基本上
 
+- What I mean is that...  / What you meant is that ...   /  Did you mean...?
 
+- So you’re basically saying 你基本上实说
 
-That's is not what I mean.
+- Yes,that 's correct.
 
-Sorry,I didn't make that clear.
+- So,let me just make sure I understand what you're saying
+
+- I think  there's a misunderstanding here.
+
+  
+
+1. Say that again [asking to repeat]
+2. Sorry, I don’t understand. Could you explain to me?
+3. What was in relation to that methodology you just mentioned? Sorry, I missed that bit. 
+4. Sorry, I didn’t catch what you said.
+5. Does that make sense?
+6. So if I understand you correctly, we need to…
+7. So basically what I’m saying is that…
+8. Can you be a bit more specific about what you mean by “secure”? 
+9. I’m not quite sure what you mean by that. 
+10. Sorry if I didn’t make that clear.
+11. I’m afraid that’s not what I mean. 
+12. I mean, if I understand your question correctly, you’re basically saying that they're afraid that if they give, they'll get to that place again where they have nothing?
+

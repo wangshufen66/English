@@ -1,38 +1,44 @@
 #### Module 05_Filling silences and buying time
 
-***Task 1.\*** 
 
-1. bear with
 
-2. going to share my screen
+(a) Our Internet connection **seems** to be slow. Please  **bear**  with me **while** the page is loading – it **might**  take [a few minutes].
 
-3. speak up
+(b) **Let** me share my screen with you.
 
-4. get back to you
+(c) I'm going to share my screen. **Can** everybody see [the first slide]?
 
-5. look into that
+(d) Sorry, I'm **having** some technical difficulties here.
 
- 
+(e) I'm going to stop **sharing**  my screen and try again in a second.
 
-***Task 2.\***
+(f) I'm going to switch **over**  to [the Chrome window] now.
 
-1. Let me think
-2. Not quite sure
-3. I think, I’m not fully sure, but I believe
-4. I guess, remember off the top of my head
-5. Just trying to think
-6. Probably 
+(g) **Let**  me just refresh the page and  **try**  again.
 
- 
+(h) I've never gotten that error, so I'm not quite sure. But I believe...  /  I think, I’m not fully sure, but I believe
 
-***Task 3.\*** 
+(i) Sorry for the **dead** air here. None of this stuff ever works out of the box. (=silence)
 
-1. correct
-2. I can’t remember OFF the top of my head.
-3. I’m afraid I DON’T quite agree. 
-4. Let me think about it for A second. 
-5. Wouldn’t it be a bit difficult? 
-6. correct
+
+
+
+
+1. … just trying **to** think…Well I think probably…
+2. I can’t **remember off** the top of my **head** but I think…
+3. Wait, **let** me **think** about this **for** **a** second. I guess…
+
+![image-20221004235842498](C:\Users\wangshufen\AppData\Roaming\Typora\typora-user-images\image-20221004235842498.png)
+
+![image-20221005000154299](C:\Users\wangshufen\AppData\Roaming\Typora\typora-user-images\image-20221005000154299.png)
+
+
+
+
+
+
+
+
 
 
 
