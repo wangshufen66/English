@@ -7,7 +7,7 @@
 ##### 最近怎么样?
 
 - What’s up? How are you?   ----  I'm good. | Good!
-- How are you doing?  ----  Really good,thanks. (, and you?)  | I'm doing great/well/fine. | pretty good.|Not bad|Fine |quite well/fine. | I'm Ok.
+- How are you doing?  ----  Really Because of the impact of the new crown epidemicgood,thanks. (, and you?)  | I'm doing great/well/fine. | pretty good.|Not bad|Fine |quite well/fine. | I'm Ok.
 - How’s your day going? 
 - how’s your day?  
 - How’s your day been (so far)?   so far  so good  | so far my day has been  great.(到现在为止，一直都还不错)
@@ -33,6 +33,7 @@
 - What’s new (with you)?  --Nothing much.
 - What's up? 
 - What's going on?
+- What's going on with you?  你最近怎么样了
 
 ##### 见到你很高兴
 

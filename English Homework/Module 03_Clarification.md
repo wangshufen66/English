@@ -20,7 +20,7 @@
 
 - What I mean is that...  / What you meant is that ...   /  Did you mean...?
 
-- So you’re basically saying 你基本上实说
+- So you’re basically saying 你基本上是说
 
 - Yes,that 's correct.
 
