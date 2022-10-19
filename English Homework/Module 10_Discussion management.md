@@ -45,7 +45,7 @@
 - **Precisely**.  That would be too much to ask, right?
 - It’s gotta be something that people love using, a well-built application, well executed that fills a real user need. I second that. It's a perfect answer.  它必须是人们喜欢使用的东西，一个构建良好的应用程序，执行良好，满足真正的用户需求。我支持这一点。这是一个完美的答案。
 - No, for me I thing you hit the nail on the head. It’s gotta be something that people love using. And I think a well-built application, well executed that fills a real user need. That’s what I personally…
-- As I see/saw it...  /  As far as I see it
+- As I see/saw it...  /  As far as I see it / As far as I know
 - I would disagree entirely.
 - I take your point but...
 - As… mentioned
@@ -60,6 +60,9 @@
 - Can I jump in here? (joining the conversation)
 - Sorry to interrupt
 - In my opinion/From my point of view/I believe.../I suppose.../I guess.../I think...
+- From my perspective
+- to a certain extent / to some extent  在某种程度上，在一定程度上
+- To sum up: 总之;概括地说;总而言之
 
 
 
